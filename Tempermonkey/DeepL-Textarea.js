@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        DeepL翻译器
 // @namespace   https://github.com/Darrien
-// @include     https://*
+// @include     https://chat.openai.com/*
 // @description 在任意页面的右上角生成一个textarea，输入内容，调用DeepL翻译快捷键，可完成基于DeepL的写作翻译
 // @author      Darrien
 // @version     1.1
